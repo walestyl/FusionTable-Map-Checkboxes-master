@@ -13,7 +13,7 @@
  */
 
 // Enable the visual refresh
-google.maps.visualRefresh = true;
+google.maps.visualRefresh = false;
 
 var MapsLib = MapsLib || {};
 var MapsLib = {
